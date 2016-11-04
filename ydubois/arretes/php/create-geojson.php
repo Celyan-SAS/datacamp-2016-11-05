@@ -32,6 +32,9 @@ EOT;
 fputs( $geohandle, $geo_header );
 
 while( ($data = fgetcsv( $handle, 1000, ',' ) ) !== false ) {
+	
+	if( $data[0] > 1 ) continue;
+	
 	if( $data[0] != $bureau ) {
 		if( !$first ) {
 			//feature end
@@ -42,9 +45,9 @@ while( ($data = fgetcsv( $handle, 1000, ',' ) ) !== false ) {
 		$feature_header = <<<EOT
 		    {
 		      "type": "Feature",
-		      "id": "relation/6669934",
+
 		      "properties": {
-		        "@id": "relation/6669934",
+
 		        "boundary": "polling_station",
 		        "ref": "$bureau",
 		        "type": "boundary"
