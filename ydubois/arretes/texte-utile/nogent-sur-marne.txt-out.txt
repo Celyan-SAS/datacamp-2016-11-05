@@ -1,0 +1,276 @@
+1,Allée de Plaisance,Du 1 au 5
+1,Grande Rue Charles de Gaulle,Du 168 à la ﬁn
+1,Grande Rue Charles de Gaulle,Du 173 à la fin
+1,Place de l'Europe,Totalité
+1,Port de Plaisance,Totalité
+1,Rue de Coulmiers,Du 1 au 17
+1,Rue de Coulmiers,Du 2 au 90
+1,Rue dela Gare,Totalité
+1,Rue dela Mairie,Totalité
+1,Rue de Plaisance,Du 7 au 51
+1,Rue de Plaisance,Du 10 au 30
+1,Rue des Héros Nogentais,Du 82 à la fin
+1,Rue des Héros Nogentais,Du 85 à la fin
+1,Rue du Lac,Totalité
+1,Rue du Maréchal Vaillant,Totalité
+1,Rue Louis Léon Lepoutre,Totalité
+1,Rue Lucien Bellivier,Totalité
+1,Sentier sous Plaisance,Totalité
+1,Square d'Estienne d'Orves,Totalité
+2,Avenue Simone,Totalité
+2,Boulevard Albert 1er,Du 1 au 21
+2,BouleVard Alber1 ier,DU 2 au 22
+2,Boulevard dela République,Totalité
+2,Grande Rue Charles de Gaulle,Du 142 au 166 Quater— Côté Pair
+2,Grande Rue Charles de Gaulle,Du 143 au 171
+2,Impasse des Pins,Totalité
+2,Rue de l‘Armistice,Du 1 au 15
+2,Rue de l'Armistice,Du 2 au 16
+2,Rue de l'Arboust,Totalité
+2,Rue des Défenseurs de Verdun,Totalité
+2,Rue du Colonel Fabien,Totalité
+2,Rue du Roi Dagobert— Du 1 au 3 Quater,Côté Impair
+2,Rue du Roi Dagobert,Du 2 au 14
+2,Rue Edmond Vitry,Du 1 au 11
+2,Rue Edmond Vitry,Du 2 au 10
+2,Rue Jean-Baptiste Coignard,Totalité
+2,Rue José Dupuis,Totalité
+2,Rue Lemancel,Totalité
+2,Rue Marcelle,Totallté
+2,Rue Nouvelle,Totalité
+3,Boulevard Galliéni,Du 1 au 15
+3,Boulevard Gallièni,Du 2 au 30
+3,Place de l‘Ancien Marché,Totalité
+3,Rue Alphonse Ancellet,Totalité
+3,Rue Cabit,Totalité
+3,Rue de Plaisance,Du 1 au 5
+3,Rue de Plaisance,Du 2 au 8
+3,Rue du Pont Noyelles,Totalité
+3,Rue des Clamarts,Totalité
+3,Rue des Héros Nogentais,Du 36 au 80
+3,Rue des Héros Nogentais,Du 37 au 83
+3,Rue du Curé Carreau,Totalité
+3,Rue du Lieutenant Ohresser,Totalité
+3,Rue Eugène Galbrun,Totalité
+3,Rue Thiers,Du 6 au 36
+3,Rue Thiers,Du 7 au 37
+4,Chemin du Pressoir,Totalité
+4,Esplanade Nungesser et Coll,Totalité
+4,impasse du Luxembourg,Totalité
+4,Rue du Jeu de Paume,Totalité
+4,Rue Emile Zola,Du 1 au 21
+4,Rue Emile Zola,Du 2 au 22
+4,Rue Jules Ferry,Totalité
+4,Rue Paul Bert,Du 1 au 11 Quater
+4,Rue Paul Bert,Du 2 au 18
+4,Rue Paul Doumer,Totalité
+4,Rue Pierre Brossolette,Totalité
+4,Rue Saint Sébastien,Totalité
+4,Rue Sainte Anne,Totalité
+5,Grande Rue Charles de Gaulle,Du 1 au 65
+5,Grande Rue Charles de Gaulle,Du 2 au 74
+5,Rue de Beauté,Totalité
+5,Rue dela Muette,Totalité
+5,Villa.Clémence Henriette,Totalité
+6,Avenue de Joinville,Du 1 au 15
+6,Avenue de Joinville,Du 2 au 12
+6,Avenue de la Belle Gabrielle,Du 32 au 38
+6,Avenue de la Belle Gabrielle,Du 33 au 37
+6,Avenue des Marronniers,Du 1 au 11 Bis
+6,Avenue des Marronniers,Du 2 au 10
+6,Avenue Duvelleroy,Totalité
+6,Avenue Wadeau,Totalité
+6,Avenue dela Source,Du 1 au 11 Bis
+6,Avenue de la Source,Du 2 au 16
+6,Avenue Suzanne,Totallté
+6,Avenue Victor Hugo,Totalité
+6,Place du Général Leclerc,Totalité
+6,Rue François Rolland,Du 1 au 25
+6,Rue François Rolland,Du 2 au 54
+6,Rue Victor Beech,Du 1 au 33
+6,Rue Victor Basch,Du 2 au 12
+6,Villa Sainte Marthe,Totalité
+7,Allée des Epivans,Totalité
+7,Boulevard de Strasbourg,Du 67 au 145
+7,Boulevard Georges V,Totalité
+7,Route de Stalingrad,Totalité
+7,Rue des Angles,Totalité
+7,Rue du Fort,Totalité
+7,Rue Guillaume—Achille Vivier,Totalité
+7,Rue Paul Bert,Du 48 au 9998
+7,Rue Paul Bert,Du 61 au 9999
+7,Sentier sous Chateaudun,Totalité
+3,Rue Brillet,Totalité
+3,Rue des Héros Nogentais,Du 7 au 35
+3,Rue des Héros Nogentais,Du 14 au 34
+3,Rue Gustave Lebègue,Totalité
+3,Rue Guy Moquet,Totalité
+3,Rue Paul Bert,Du 13 au 59
+3,Rue Paul Bert,Du 20 au 46
+3,Rue Thiers,Du 1 au 5
+3,Rue Thiers,Du 2 au 4
+9,Boulevard de Strasbourg,Du 1 au 53 A
+9,Boulevard de Strasbourg,Du 2 au 50
+9,Rue du Commandant Marchand,Totalité
+9,Rue Emile Brisson,Totalité
+9,Rue Gabriel Péri,Totalité
+9,Rue Jean Moulin,Totalité
+10,Rue Aunier,Totalité
+10,Rue de Bapaume,Totalité (P:69 I_M:1 I En
+10,Rue de Fontenay,Totalité
+10,Rue du Général Faidherbe,Totalité
+10,Rue Plisson,Totalité
+10,Villa André,Totalité
+10,Villa des Grillons,Totalité
+10,Villa Ledoux,Totalité
+11,Avenue Kléber,Totalité
+11,Boulevard Albert 1er,Du 23 à la fin
+11,Boulevard Albert 1er,Du 24 àla ﬁn
+11,Île des Loups,Totalité
+11,Quai du Port,Totalité
+11,Rue du Viaduc,Totalité
+11,Rue Henry Dunant,Totalité
+11,Rue Hoche,Totalité
+11,Rue Nazare,Totalité
+12,Avenue des Tilleuls,Totalité
+12,Avenue du Val de Beauté,Du 1 au 9
+12,Avenue du Val de Beauté,Du 2 au 10
+12,Avenue Beauséjour,Totalité
+12,Avenue Charles V,Du début au 50
+12,Avenue Charles V,Du 1 au 51
+12,Boulevard de la Marne,Du début au 38
+12,Boulevard dela Marne,Du 1 au 39
+12,Chemin de l'Île de Beauté,Totalité
+12,Rue Carnot,Du début au 18
+12,Rue Carnot,Du 1 au 33
+12,Rue Franklin Roosevelt,Totalité
+12,Rue Jean Guy Labarbe,Totalité
+12,Rue Legrince,Totalité
+12,Rue Victor Basoh,Du 14 àla ﬁn
+12,Rue Victore Basch,Du 35 à la fin
+13,Avenue de Joinville,Du 14 au 26
+13,Avenue de Joinville,Du 17 au 25
+13,Avenue de la Belle Gabrielle,Du 39 au 69 Ter
+13,Avenue dela Belle Gabrielle,Du 40 au 52
+13,Avenue de la Source,Du 13 au 41
+13,Avenue dela Source,Du 18 au 42 Ter
+13,Villa des Chênes,Totalité
+14,Avenue dela Belle Gabrielle,Du 17 au 31
+14,Avenue dela Belle Gabrielle,Du 18 au 30
+14,Avenue des Marronniers,Du 12 à la ﬁn
+14,Avenue des Marronniers,Du 13 a la fin
+14,Avenue Odette,Totalité
+14,Avenue Clémenceau,Totalité
+14,Avenue des Chataîgniers,Totalité
+14,Boulevard Gambetta,Totalité
+14,Place Pierre Semard,Totalité
+15,Boulevard de Strasbourg,Du 52 au 82
+15,Boulevard de Strasbourg,Du 53 B au 65 B
+15,Boulevard des Deux Communes,Totalité
+15,Passage Oury,Totalité
+15,Rue de l‘Amiral Courbet,Du Totalité
+15,Rue Parmentier,Totalité
+15,Rue des Viselets,Totalité
+15,Rue du Général Chanzy,Totalité
+15,Rue Manessier,Totalité
+15,Rue Saint Quentin,Totalité
+15,Villa Lebègue,Totalité
+16,Boulevard de Strasbourg,Du 84 au 134
+16,Boulevard Galliéni,Du 17 à la fin
+16,Boulevard Galliéni,Du 32 à la ﬁn
+16,Carrefour Julien Roger,Totalité
+16,Rue Anquetil,Totalité
+16,Rue Lequesne,Totalité
+16,Rue Thiers,Du 38 au 52
+16,Rue Thiers,Du 39 au 57
+17,Avenue du Maréchal Lyautey,Totalité
+17,Avenue du Maréchal Maunoury,Totalité
+17,Avenue Polton,Totalité
+17,Boulevard de Strasbourg,Du 147 au 147 Quater
+17,Rond-Point du Maréchal Foch,Totalité
+17,Rue de la Libération,Totalité
+17,Rue Edouard Renard,Totalité
+17,Rue Raymond Josserand,Totalité
+17,Sentier des Hauts Villemains,Totalité
+18,Avenue du Val.de Beauté,Du 11 àla ﬁn
+18,Avenue du Val de Beauté,Du 12 à la fin
+18,Avenue Madeleine Smith Champion,Totalité
+18,Île de Beauté,Totalité
+18,Impasse Agnès Sorel,Totalité
+18,Impasse Marchand,Totalité
+18,Rue Agnès Sorel,Du 1 à la ﬁn
+18,Rue Agnès Sorel,Du 38 àla ﬁn
+18,Rue Bauyn de Perreuse,Du 16 à la fin
+18,Rue Bauyn de Perreuse,Du 19 à la ﬁn
+18,Rue Carnot,Du 20 à la fin
+18,Rue Carnot,Du 35 a latin
+18,Rue du Port,Du 2 à la fin
+18,Rue du Port,Du 13 à la fin
+18,Rue François Rolland,Du 27 à la fin
+18,Rue François Rolland,Du 56 àla ﬁn
+19,Impasse Bellevue,Totalité
+19,Rue Agnès Sorel,Du 4 au 36
+19,Rue Auguste Pechinez,Totalité
+19,Rue Charles VII,Totalité
+19,Rue de l'Abbé Guilleminault,Totalité
+19,Rue de l'Armistice,Du 17 à la ﬁn
+19,Rue de l'Armistice,Du 18 àla ﬁn
+19,Rue du Port,Du 1 au 11 Quater— Côté Impair
+19,Rue du Roi Dagobert,Du 5 àla ﬁn
+19,Rue du Roi Dagobert,Du 16 à la fin
+19,Rue Edmond Vitry,Du 12 à la ﬁn
+19,Rue Edmond Vitry,Du 13 à la ﬁn
+19,Rue Jacques Kablé,Totalité
+19,Rue Marceau,Totalité
+19,Rue Pasteur,Totalité
+19,Sentier Bellevue,Totalité
+20,Avenue de Lattre de Tassigny,Totalité
+20,Avenue Gugnon,Totalité
+20,Grande Rue Charles de Gaulle,Du 67 au 141
+20,Grande Rue Charles de Gaulle,Du 76 au 140
+20,Impasse du Nord,Totalité
+20,Impasse Jeanne Marguerite,Totalité
+20,Impasse Berger,Totalité
+20,Rue André Pontier,Du 1 au 7
+20,Rue André Pontier,Du 2 au 8
+20,Rue Bauyn de Perreuse,Du début au 14 Quatar
+20,Rue Bauyn de Perreuse,Du 1 au 17
+20,Rue des Héros Nogentais,Du 1 au 5
+20,Rue des Héros Nogentais,Du 2 au 12
+20,Rue du Jeu de l'Arc,Totalité
+20,Rue Jean Soulès,Totalité
+20,Rue Yvon,Totalité
+20,Square de la Fontaine,Totalité
+20,Villa de Beauté,Totalité
+21,Rue André Pontier,Du 9 à la fin
+21,Rue André Pontier,Du 10 à la fin
+21,Rue de Chateaudun,Totalité
+21,Rue Emile Zola,Du 23 à la fin
+21,Rue Emile Zola,Du 24 àla ﬁn
+21,Rue Gaston Margerie,Totalité
+21,Rue Odile Laurent,Totalité
+21,Rue Théodore Honoré,Totalité
+22,Avenue Franchet d'Esperey,Totalité
+22,Boulevard de Strasbourg,Du 136 au 166 Quater
+22,Boulevard de Strasbourg,Du 149 au 173 Quater
+22,Rue de Coulmiers,Du 19 à la fin
+22,Rue de Coulmiers,Du 92 à la fin
+22,Rue de l'Ardillière,Totalité
+22,Rue de Plaisance,Du 32 à la fin
+22,Rue de Plaisance,Du 53 àla ﬁn
+22,Rue des Marlières,Totalité
+22,Rue du Maréchal Fayolle,Totalité
+22,Rue du Maréchal Joffre,Totalité
+23,Avenue de Joinville,Du 27 à la fin
+23,Avenue de Joinville,Du 28 a la fin
+23,Avenue dela Belle Gabrielle,Du 54 à la fin
+23,Avenue de la Belle Gabrielle,Du 71 à la fin
+23,Avenue de Neptune,Totalité
+23,Avenue des Merisiers,Totalité
+23,Avenue Charles V,Du 52 à la fin
+23,Avenue Charles V,Du 53 à la fin
+23,Avenue de Diane,Totalité
+23,Avenue dela Source,Du 43 à la fin
+23,Avenue de la Source,Du 44 a la fin
+23,Boulevard dela Marne,Du 40 à la fin
+23,Boulevard dela Marne,Du 41 à la fin
