@@ -35,7 +35,7 @@ while( ($data = fgetcsv( $handle, 1000, ',' ) ) !== false ) {
 	if( $data[0] != $bureau ) {
 		if( !$first ) {
 			//feature end
-			fputs( $geohandle, "]]},\n" );
+			fputs( $geohandle, "]]}},\n" );
 		}
 		$first = false;
 		$bureau = $data[0];
@@ -65,8 +65,9 @@ EOT;
 }
 
 $geo_footer = <<<EOT
+					]
 				]
-			]
+			}
 		}
 	]
 }
