@@ -52,7 +52,9 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 		$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 		$r = file_get_contents( $req );
 		$o = json_decode( $r );
-		$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
+		if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+			$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
+		//var_dump( $o ); exit;
 			
 		$q = $fin_impair . ' ' .
 				$rue . ' ' .
@@ -60,7 +62,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 		$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 		$r = file_get_contents( $req );
 		$o = json_decode( $r );
-		$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+		if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+			$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
 		
 	} elseif( preg_match( '/[il]mpair/i', $split[2] ) ) {
 		
@@ -78,7 +81,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 			$r = file_get_contents( $req );
 			$o = json_decode( $r );
-			$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
+			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+				$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
 			
 			$q = $fin_impair . ' ' .
 					$rue . ' ' .
@@ -86,7 +90,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 			$r = file_get_contents( $req );
 			$o = json_decode( $r );
-			$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+				$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
 			
 		} else {
 			$debut_impair = '*err*';
@@ -111,7 +116,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 			$r = file_get_contents( $req );
 			$o = json_decode( $r );
-			$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
+			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+				$c_debut = implode( ';', $o->features[0]->geometry->coordinates );
 				
 			$q = $fin_pair . ' ' .
 					$rue . ' ' .
@@ -119,7 +125,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$req = 'http://api-adresse.data.gouv.fr/search/?q=' . urlencode( $q );
 			$r = file_get_contents( $req );
 			$o = json_decode( $r );
-			$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
+				$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
 			
 		} else {
 			$debut_pair = '*err*';
