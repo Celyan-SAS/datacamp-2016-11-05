@@ -58,12 +58,15 @@ while( ($data = fgetcsv( $handle, 1000, ',' ) ) !== false ) {
 		          [
 EOT;
 		fputs( $geohandle, $feature_header );
+		$first_coo = true;
 	}
 	if( $data[6] && $data[7] ) {
+		if( !$first_coo ) fputs( $geohandle, ',' );
+		$first_coo = false;
 		list( $long, $lat ) = preg_split( '/;/', $data[6] );
 		fputs( $geohandle, '[' . $long . ',' . $lat . '],' );
 		list( $long, $lat ) = preg_split( '/;/', $data[7] );
-		fputs( $geohandle, '[' . $long . ',' . $lat . '],' );
+		fputs( $geohandle, '[' . $long . ',' . $lat . ']' );
 	}
 }
 
