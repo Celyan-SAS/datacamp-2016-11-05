@@ -46,6 +46,7 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 		$debut_impair = 1;
 		$fin_impair = 9999;
 		
+		/*
 		$q = $debut_pair . ' ' .
 				$rue . ' ' .
 				'Nogent-sur-Marne';
@@ -64,6 +65,7 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 		$o = json_decode( $r );
 		if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
 			$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+		*/
 		
 	} elseif( preg_match( '/[il]mpair/i', $split[2] ) ) {
 		
@@ -75,6 +77,7 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$debut_impair = $matches[1];
 			$fin_impair = $matches[2];
 			
+			/*
 			$q = $debut_impair . ' ' .
 				$rue . ' ' .
 				'Nogent-sur-Marne';
@@ -92,13 +95,14 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$o = json_decode( $r );
 			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
 				$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+			*/
 			
 		} else {
 			$debut_impair = '*err*';
 			$fin_impair = '*err*';
 		}		
 		$debut_pair = 0;
-		$fin_pair = 9998;
+		$fin_pair = 0;
 
 	} else {
 		
@@ -110,6 +114,7 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$debut_pair = $matches[1];
 			$fin_pair = $matches[2];
 			
+			/*
 			$q = $debut_pair . ' ' .
 					$rue . ' ' .
 					'Nogent-sur-Marne';
@@ -127,13 +132,14 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 			$o = json_decode( $r );
 			if( $o->features[0]->properties->city == 'Nogent-sur-Marne' )
 				$c_fin = implode( ';', $o->features[0]->geometry->coordinates );
+			*/
 			
 		} else {
 			$debut_pair = '*err*';
 			$fin_pair = '*err*';
 		}		
-		$debut_impair = 1;
-		$fin_impair = 9999;		
+		$debut_impair = 0;
+		$fin_impair = 0;		
 	}
 	
 	$outdata = array(
@@ -143,8 +149,8 @@ while( ( $line = fgets( $handle, 4096 ) ) !== false ) {
 		$fin_pair,
 		$debut_impair,
 		$fin_impair,
-		$c_debut,
-		$c_fin
+		//$c_debut,
+		//$c_fin
 	);
 	
 	$outline = trim( implode( ',', $outdata ) ) . "\n";
