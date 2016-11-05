@@ -5,8 +5,8 @@
 1,Port de Plaisance,0,9998,1,9999
 1,Rue de Coulmiers,0,0,1,17
 1,Rue de Coulmiers,2,90,0,0
-1,Rue dela Gare,0,9998,1,9999
-1,Rue dela Mairie,0,9998,1,9999
+1,Rue de la Gare,0,9998,1,9999
+1,Rue de la Mairie,0,9998,1,9999
 1,Rue de Plaisance,0,0,7,51
 1,Rue de Plaisance,10,30,0,0
 1,Rue des Héros Nogentais,82,9998,0,0
@@ -19,12 +19,12 @@
 1,Square d'Estienne d'Orves,0,9998,1,9999
 2,Avenue Simone,0,9998,1,9999
 2,Boulevard Albert 1er,0,0,1,21
-2,BouleVard Alber1 ier,2,22,0,0
-2,Boulevard dela République,0,9998,1,9999
+2,Boulevard Albert 1er,2,22,0,0
+2,Boulevard de la République,0,9998,1,9999
 2,Grande Rue Charles de Gaulle,142,166,0,0
 2,Grande Rue Charles de Gaulle,0,0,143,171
 2,Impasse des Pins,0,9998,1,9999
-2,Rue de l‘Armistice,0,0,1,15
+2,Rue de l'Armistice,0,0,1,15
 2,Rue de l'Armistice,2,16,0,0
 2,Rue de l'Arboust,0,9998,1,9999
 2,Rue des Défenseurs de Verdun,0,9998,1,9999
@@ -38,9 +38,9 @@
 2,Rue Lemancel,0,9998,1,9999
 2,Rue Marcelle,0,9998,1,9999
 2,Rue Nouvelle,0,9998,1,9999
-3,Boulevard Galliéni,0,0,1,15
-3,Boulevard Gallièni,2,30,0,0
-3,Place de l‘Ancien Marché,0,9998,1,9999
+3,Boulevard Gallieni,0,0,1,15
+3,Boulevard Gallieni,2,30,0,0
+3,Place de l'Ancien Marché,0,9998,1,9999
 3,Rue Alphonse Ancellet,0,9998,1,9999
 3,Rue Cabit,0,9998,1,9999
 3,Rue de Plaisance,0,0,1,5
@@ -55,7 +55,7 @@
 3,Rue Thiers,6,36,0,0
 3,Rue Thiers,0,0,7,37
 4,Chemin du Pressoir,0,9998,1,9999
-4,Esplanade Nungesser et Coll,0,9998,1,9999
+4,Esplanade Nungesser et Coli,0,9998,1,9999
 4,impasse du Luxembourg,0,9998,1,9999
 4,Rue du Jeu de Paume,0,9998,1,9999
 4,Rue Emile Zola,0,0,1,21
@@ -70,8 +70,8 @@
 5,Grande Rue Charles de Gaulle,0,0,1,65
 5,Grande Rue Charles de Gaulle,2,74,0,0
 5,Rue de Beauté,0,9998,1,9999
-5,Rue dela Muette,0,9998,1,9999
-5,Villa.Clémence Henriette,0,9998,1,9999
+5,Rue de la Muette,0,9998,1,9999
+5,Villa Clémence Henriette,0,9998,1,9999
 6,Avenue de Joinville,0,0,1,15
 6,Avenue de Joinville,2,12,0,0
 6,Avenue de la Belle Gabrielle,32,38,0,0
@@ -79,15 +79,15 @@
 6,Avenue des Marronniers,0,0,1,11 B
 6,Avenue des Marronniers,2,10,0,0
 6,Avenue Duvelleroy,0,9998,1,9999
-6,Avenue Wadeau,0,9998,1,9999
-6,Avenue dela Source,0,0,1,11 B
+6,Avenue Watteau,0,9998,1,9999
+6,Avenue de la Source,0,0,1,11 B
 6,Avenue de la Source,2,16,0,0
 6,Avenue Suzanne,0,9998,1,9999
 6,Avenue Victor Hugo,0,9998,1,9999
 6,Place du Général Leclerc,0,9998,1,9999
 6,Rue François Rolland,0,0,1,25
 6,Rue François Rolland,2,54,0,0
-6,Rue Victor Beech,0,0,1,33
+6,Rue Victor Basch,0,0,1,33
 6,Rue Victor Basch,2,12,0,0
 6,Villa Sainte Marthe,0,9998,1,9999
 7,Allée des Epivans,0,9998,1,9999
@@ -96,7 +96,7 @@
 7,Route de Stalingrad,0,9998,1,9999
 7,Rue des Angles,0,9998,1,9999
 7,Rue du Fort,0,9998,1,9999
-7,Rue Guillaume—Achille Vivier,0,9998,1,9999
+7,Rue Guillaume Achille Vivier,0,9998,1,9999
 7,Rue Paul Bert,48,9998,0,0
 7,Rue Paul Bert,0,0,61,9999
 7,Sentier sous Chateaudun,0,9998,1,9999
@@ -139,24 +139,24 @@
 12,Avenue Charles V,0,50,0,0
 12,Avenue Charles V,0,0,1,51
 12,Boulevard de la Marne,0,38,0,0
-12,Boulevard dela Marne,0,0,1,39
+12,Boulevard de la Marne,0,0,1,39
 12,Chemin de l'Île de Beauté,0,9998,1,9999
 12,Rue Carnot,0,18,0,0
 12,Rue Carnot,0,0,1,33
 12,Rue Franklin Roosevelt,0,9998,1,9999
 12,Rue Jean Guy Labarbe,0,9998,1,9999
-12,Rue Legrince,0,9998,1,9999
-12,Rue Victor Basoh,14,9998,0,0
-12,Rue Victore Basch,0,0,35,9999
+12,Rue Leprince,0,9998,1,9999
+12,Rue Victor Basch,14,9998,0,0
+12,Rue Victor Basch,0,0,35,9999
 13,Avenue de Joinville,14,26,0,0
 13,Avenue de Joinville,0,0,17,25
 13,Avenue de la Belle Gabrielle,0,0,39,69
-13,Avenue dela Belle Gabrielle,40,52,0,0
+13,Avenue de la Belle Gabrielle,40,52,0,0
 13,Avenue de la Source,0,0,13,41
-13,Avenue dela Source,18,42,0,0
+13,Avenue de la Source,18,42,0,0
 13,Villa des Chênes,0,9998,1,9999
-14,Avenue dela Belle Gabrielle,0,0,17,31
-14,Avenue dela Belle Gabrielle,18,30,0,0
+14,Avenue de la Belle Gabrielle,0,0,17,31
+14,Avenue de la Belle Gabrielle,18,30,0,0
 14,Avenue des Marronniers,12,9998,0,0
 14,Avenue des Marronniers,0,0,13,9999
 14,Avenue Odette,0,9998,1,9999
@@ -167,8 +167,8 @@
 15,Boulevard de Strasbourg,52,82,0,0
 15,Boulevard de Strasbourg,0,0,53 B,65 B
 15,Boulevard des Deux Communes,0,9998,1,9999
-15,Passage Oury,0,9998,1,9999
-15,Rue de l‘Amiral Courbet,0,9998,1,9999
+15,Passage Cury,0,9998,1,9999
+15,Rue de l'Amiral Courbet,0,9998,1,9999
 15,Rue Parmentier,0,9998,1,9999
 15,Rue des Viselets,0,9998,1,9999
 15,Rue du Général Chanzy,0,9998,1,9999
@@ -176,8 +176,8 @@
 15,Rue Saint Quentin,0,9998,1,9999
 15,Villa Lebègue,0,9998,1,9999
 16,Boulevard de Strasbourg,84,134,0,0
-16,Boulevard Galliéni,0,0,17,9999
-16,Boulevard Galliéni,32,9998,0,0
+16,Boulevard Gallieni,0,0,17,9999
+16,Boulevard Gallieni,32,9998,0,0
 16,Carrefour Julien Roger,0,9998,1,9999
 16,Rue Anquetil,0,9998,1,9999
 16,Rue Lequesne,0,9998,1,9999
@@ -192,7 +192,7 @@
 17,Rue Edouard Renard,0,9998,1,9999
 17,Rue Raymond Josserand,0,9998,1,9999
 17,Sentier des Hauts Villemains,0,9998,1,9999
-18,Avenue du Val.de Beauté,0,0,11,9999
+18,Avenue du Val de Beauté,0,0,11,9999
 18,Avenue du Val de Beauté,12,9998,0,0
 18,Avenue Madeleine Smith Champion,0,9998,1,9999
 18,Île de Beauté,0,9998,1,9999
@@ -263,14 +263,14 @@
 22,Rue du Maréchal Joffre,0,9998,1,9999
 23,Avenue de Joinville,0,0,27,9999
 23,Avenue de Joinville,28,9998,0,0
-23,Avenue dela Belle Gabrielle,54,9998,0,0
+23,Avenue de la Belle Gabrielle,54,9998,0,0
 23,Avenue de la Belle Gabrielle,0,0,71,9999
 23,Avenue de Neptune,0,9998,1,9999
 23,Avenue des Merisiers,0,9998,1,9999
 23,Avenue Charles V,52,9998,0,0
 23,Avenue Charles V,0,0,53,9999
 23,Avenue de Diane,0,9998,1,9999
-23,Avenue dela Source,0,0,43,9999
+23,Avenue de la Source,0,0,43,9999
 23,Avenue de la Source,44,9998,0,0
-23,Boulevard dela Marne,40,9998,0,0
-23,Boulevard dela Marne,0,0,41,9999
+23,Boulevard de la Marne,40,9998,0,0
+23,Boulevard de la Marne,0,0,41,9999
